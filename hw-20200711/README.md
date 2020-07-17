@@ -15,7 +15,7 @@ Please follow the instructions below:
 - Push your project to the remote repository
 
 ## Step 3 - create commit
-- `dev1` adds any contents on line no.3. For example, add `Hello, this is Octocat`.
+- `dev1` adds any contents on line no.1. For example, add `Hello, this is Octocat`.
 - `dev1` creates the commit with the message `Update README.md #1`
 - `dev2` adds any contents on line no.2. For example, add `I'm going to show you how I use git`
 - `dev2` creates the commit with the message `Update README.md #2`
